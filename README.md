@@ -1,4 +1,4 @@
-# 🛒 E-commerce Opinion Analysis — Web Mining & NLP
+﻿# 🛒 E-commerce Opinion Analysis — Web Mining & NLP
 
 ## 📌 Project Overview
 
@@ -108,30 +108,20 @@ Development of a Streamlit application allowing users to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-```
-Web-Mining/
-│
-├── Projet_Web.ipynb
-├── README.md
-├── data/
-├── models/
-├── outputs/
-└── dashboard/
-```
+| File | Description |
+| --- | --- |
+| Projet_Web.ipynb | Project notebook containing the code and analysis |
+| README.md | Project presentation |
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Ilyasse Battar**
+**Zakariya Zakar**
 
-4th Year Engineering Student  
-Data Science & Artificial Intelligence  
-EMSI – Morocco
-
-LinkedIn: www.linkedin.com/in/ilyasse-battar
+GitHub: https://github.com/zakariyazakar
 
 ---
 
@@ -143,3 +133,5 @@ LinkedIn: www.linkedin.com/in/ilyasse-battar
 ✅ BERTopic Topic Modeling  
 ✅ SHAP Explainability  
 ✅ Streamlit Dashboard
+
+
